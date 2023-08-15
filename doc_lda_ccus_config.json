@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "CCUS text similarity",
+            "tensorShape": [
+                5038,
+                10
+            ],
+            "tensorPath": "https://raw.githubusercontent.com/alvelvis/ccus_text_similarity_tensorboard/main/doc_lda_ccus_tensor.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/alvelvis/ccus_text_similarity_tensorboard/main/doc_lda_ccus_metadata.tsv"
+        }
+    ]
+}
